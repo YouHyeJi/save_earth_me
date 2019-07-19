@@ -1,3 +1,9 @@
+/* board.html에 대한 css */
+h1{
+    text-align: center;
+    padding : 40px;
+}
+
 .table_container{
     width : 80%;
     margin-left : 150px;
@@ -11,6 +17,35 @@
 }
 
 .first{
-    width : 80%;
-    
+    font-size : 15px;
+}
+
+/* write.html에 대한 css */
+.wtitle{
+    font-size: 18px;
+    margin-left: 120px;
+    /* padding-left: 90px; */
+}
+.etitle{
+    margin-left: 80px;
+}
+
+.rtitle{
+    font-size: 18px;
+    margin-left: 120px;
+}
+.write_container{
+    margin:auto;
+    width : 70%;
+    margin-bottom: 28em;
+}
+
+.submit{
+    margin-left: 65.6em;
+}
+
+.content_group{
+    display: grid;
+    grid-template-columns: 260px 800px;
+    grid-template-rows: 50px 50px;
 }
