@@ -49,3 +49,18 @@ h1{
     grid-template-columns: 260px 800px;
     grid-template-rows: 50px 50px;
 }
+
+/* detail.html에 대한 css */
+h2{
+    text-align: center;
+    padding-top: 12em;
+}
+
+.answer{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.back{
+    margin-left: 102em;
+}
